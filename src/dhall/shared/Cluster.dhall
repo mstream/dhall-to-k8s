@@ -1,0 +1,1 @@
+{ fullName : Text, shortName : Text }
